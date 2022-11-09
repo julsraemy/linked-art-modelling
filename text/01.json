@@ -1,0 +1,138 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://data.julsraemy.ch/text/01",
+    "type": "LinguisticObject",
+    "_label": "1. Introduction",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300195160",
+        "type": "Type",
+        "_label": "Layout Component"
+      }
+    ],
+    "part_of": [
+        {
+        "id": "https://data.julsraemy.ch/text/0",
+        "type": "LinguisticObject",
+        "_label": "PhD Thesis",
+        "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300028028",
+              "type": "Type",
+              "_label": "Theses"
+            }
+        ]   
+        }
+    ],
+    "identified_by": [
+      {
+        "type": "Name",
+        "content": "Introduction",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300404670",
+            "type": "Type",
+            "_label": "Primary Name"
+          }
+        ],
+        "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388277",
+              "type": "Language",
+              "_label": "English"
+            }
+          ]
+      }
+    ],
+    "referred_to_by": [
+      {
+        "type": "LinguisticObject",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300026032",
+            "type": "Type",
+            "_label": "Abstract",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "content": "A very nice description/excerpt of the chapter here"
+      }
+    ],
+    "about": [
+      {
+        "id": "https://data.julsraemy.ch/concept/0",
+        "type": "Type",
+        "_label": "Linked Open Usable Data"
+      },
+      {
+        "id": "https://data.julsraemy.ch/concept/1",
+        "type": "Type",
+        "_label": "Humanities"
+      },
+      {
+        "id": "https://data.julsraemy.ch/concept/2",
+        "type": "Type",
+        "_label": "Semantics"
+      },
+      {
+        "id": "https://data.julsraemy.ch/concept/3",
+        "type": "Type",
+        "_label": "Interoperability"
+      }
+    ],
+    "language": [
+      {
+        "id": "http://vocab.getty.edu/aat/300388277",
+        "type": "Language",
+        "_label": "English"
+      }
+    ],
+    "subject_of": [
+        {
+          "type": "LinguisticObject",
+          "_label": "Omeka S Item of Introduction",
+          "digitally_carried_by": [
+            {
+              "type": "DigitalObject",
+              "_label": "Omeka S Item of Introduction",
+              "format": "text/html",
+              "access_point": [
+                {
+                  "id": "https://phd.julsraemy.ch/s/loud/01",
+                  "type": "DigitalObject"
+                }
+              ],
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300264578",
+                  "type": "Type",
+                  "_label": "Web Page"
+                }
+              ],
+              "identified_by": [
+                {
+                  "type": "Name",
+                  "content": "Omeka S Homepage"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+    "created_by": {
+      "type": "Creation",
+      "carried_out_by": [
+        {
+          "id": "https://data.julsraemy.ch/person/0",  
+          "type": "Person",
+          "_label": "Julien A. Raemy"
+        }
+      ]
+    }
+  }

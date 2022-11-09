@@ -1,0 +1,63 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://data.julsraemy.ch/concept/01",
+    "type": "Type",
+    "_label": "Linked Open Usable Data",
+    "identified_by": [
+      {
+        "type": "Name",
+        "content": "Linked Open Usable Data",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300404670",
+            "type": "Type",
+            "_label": "Primary Name"
+          }
+        ],
+        "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388277",
+              "type": "Language",
+              "_label": "English"
+            }
+          ]
+      }
+    ],
+    "referred_to_by": [
+      {
+        "type": "LinguisticObject",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300026032",
+            "type": "Type",
+            "_label": "Abstract",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "content": "A very nice description of LOUD here"
+      }
+    ],
+    "equivalent": [
+        {
+          "id": "https://www.wikidata.org/entity/Q111094140",
+          "type": "Type",
+          "_label": "linked open usable data"
+        }
+      ],
+    "created_by": {
+      "type": "Creation",
+      "influenced_by": [
+        {
+          "id": "http://id.loc.gov/authorities/subjects/sh2013002090",  
+          "type": "Type",
+          "_label": "Linked Data"
+        }
+      ]
+    }
+  }
