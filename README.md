@@ -7,5 +7,5 @@ This repository contains some Linked Art Modelling for my own purposes, especial
 
 Two top-level Linked Art API entities have been serialised: 
 
-- Textual Work (`/text/`)
-- Digital Object (`/digital/`)
+- Textual Work (`/text/`) for encoding the chapters, sections and subsections of the thesis
+- Digital Object (`/digital/`) for encoding the notebook entries available on my [PhD Website](https://phd.julsraemy.ch). 
