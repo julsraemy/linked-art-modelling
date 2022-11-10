@@ -57,6 +57,16 @@
           "id": "http://id.loc.gov/authorities/subjects/sh2013002090",  
           "type": "Type",
           "_label": "Linked Data"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300419452",  
+          "type": "Type",
+          "_label": "IIIF"
+        },
+        {
+          "id": "http://www.w3.org/ns/formats/JSON-LD",  
+          "type": "Type",
+          "_label": "JSON-LD"
         }
       ]
     }

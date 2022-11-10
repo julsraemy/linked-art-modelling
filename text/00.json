@@ -1,33 +1,19 @@
 {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "https://data.julsraemy.ch/text/1",
+    "id": "https://data.julsraemy.ch/text/0",
     "type": "LinguisticObject",
-    "_label": "1. Introduction",
+    "_label": "Linked Open Usable Data in the Humanities. Perspectives on Semantics and Interoperability.",
     "classified_as": [
       {
-        "id": "http://vocab.getty.edu/aat/300195160",
+        "id": "http://vocab.getty.edu/aat/300028028",
         "type": "Type",
-        "_label": "Layout Component"
+        "_label": "Theses"
       }
-    ],
-    "part_of": [
-        {
-        "id": "https://data.julsraemy.ch/text/0",
-        "type": "LinguisticObject",
-        "_label": "PhD Thesis",
-        "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300028028",
-              "type": "Type",
-              "_label": "Theses"
-            }
-        ]   
-        }
     ],
     "identified_by": [
       {
         "type": "Name",
-        "content": "Introduction",
+        "content": "Linked Open Usable Data in the Humanities. Perspectives on Semantics and Interoperability.",
         "classified_as": [
           {
             "id": "http://vocab.getty.edu/aat/300404670",
@@ -61,7 +47,29 @@
             ]
           }
         ],
-        "content": "A very nice description/excerpt of the chapter here"
+        "content": "Abstract of the PhD Thesis"
+      }
+    ],
+    "about": [
+      {
+        "id": "https://data.julsraemy.ch/concept/0",
+        "type": "Type",
+        "_label": "Linked Open Usable Data"
+      },
+      {
+        "id": "https://data.julsraemy.ch/concept/1",
+        "type": "Type",
+        "_label": "Humanities"
+      },
+      {
+        "id": "https://data.julsraemy.ch/concept/2",
+        "type": "Type",
+        "_label": "Semantics"
+      },
+      {
+        "id": "https://data.julsraemy.ch/concept/3",
+        "type": "Type",
+        "_label": "Interoperability"
       }
     ],
     "language": [
@@ -74,11 +82,11 @@
     "subject_of": [
         {
           "type": "LinguisticObject",
-          "_label": "Omeka S Item of Introduction",
+          "_label": "PhD Website",
           "digitally_carried_by": [
             {
               "type": "DigitalObject",
-              "_label": "Omeka S Item of Introduction",
+              "_label": "PhD Website",
               "format": "text/html",
               "access_point": [
                 {
@@ -88,15 +96,15 @@
               ],
               "classified_as": [
                 {
-                  "id": "http://vocab.getty.edu/aat/300264578",
+                  "id": "http://vocab.getty.edu/aat/300265431",
                   "type": "Type",
-                  "_label": "Web Page"
+                  "_label": "Website"
                 }
               ],
               "identified_by": [
                 {
                   "type": "Name",
-                  "content": "Omeka S Homepage"
+                  "content": "PhD Website"
                 }
               ]
             }
