@@ -10,3 +10,6 @@ Three top-level Linked Art API entities are expected to be serialised:
 - Textual Works (`/text/`) for encoding the chapters, sections and subsections of the thesis
 - Digital Objects (`/digital/`) for encoding the notebook entries available on my [PhD Website](https://phd.julsraemy.ch)
 - Concepts (`/concept/`) for encoding terms that are not available via the Getty Vocabularies
+
+
+[![DOI](https://zenodo.org/badge/563828272.svg)](https://zenodo.org/badge/latestdoi/563828272)
