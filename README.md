@@ -7,8 +7,12 @@ Getty Vocabularies (such as AAT - the Arts and Architecture Thesaurus) to descri
 
 This repository contains some Linked Art Modelling for my own purposes, especially those that I would like to publish in the context of my PhD Thesis (_Linked Open Usable Data in the Humanities: Perspectives on Semantics and Interoperability_), most probably at `https://data.julsraemy.ch/` (TBD).
 
-Three top-level Linked Art API entities are expected to be serialised: 
+Three top-level Linked Art API entities (with _examples_) have been serialised in JSON-LD as well as graphs in SVG:
 
-- Textual Works (`/text/`) for encoding the chapters, sections and subsections of the thesis
-- Digital Objects (`/digital/`) for encoding the notebook entries available on my [PhD Website](https://phd.julsraemy.ch)
-- Concepts (`/concept/`) for encoding terms that are not available via the Getty Vocabularies
+- [Textual Works](/text) for encoding the chapters, sections and subsections of the thesis.
+  - _PhD Thesis_
+  - _Introduction_ (example of a chapter which is part of the PhD Thesis)
+- [Digital Objects](/digital) for encoding the notebook entries available on my [PhD Website](https://phd.julsraemy.ch)
+  - _Actor-Network Theory_
+- [Concepts](/concept) for encoding terms that are not available via the Getty Vocabularies
+  - _Linked Open Usable Data_
