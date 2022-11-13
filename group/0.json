@@ -65,7 +65,7 @@
             ]
           }
         ],
-        "content": "Julien A. Raemy is a researcher in Digital Humanities."
+        "content": "Founded in 1460, the University of Basel is the oldest university of Switzerland."
       }
     ],
     "equivalent": [
@@ -90,31 +90,5 @@
             "_label": "Fribourg, Switzerland"
           }
         ]
-      },
-      "member_of": [
-        {
-          "id": "https://data.julsraemy.ch/group/0",  
-          "type": "Group",
-          "_label": "University of Basel",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300312240",
-              "type": "Type",
-              "_label": "University"
-            }
-          ]
-        },
-          {
-            "id": "https://data.julsraemy.ch/group/1",  
-            "type": "Group",
-            "_label": "DaSCH - Swiss National Data and Service Center for the Humanities",
-            "classified_as": [
-              {
-                "id": "http://vocab.getty.edu/aat/300150456",
-                "type": "Type",
-                "_label": "Data and Service Center"
-              }
-            ]
-          }
-      ]  
+      }
   }

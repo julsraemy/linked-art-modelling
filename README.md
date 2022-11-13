@@ -18,5 +18,5 @@ The following top-level [Linked Art API entities](https://linked.art/api/1.0/end
   - _Linked Open Usable Data_
 - [Person](/person) for encoding myself and others individuals involved in the PhD thesis
   - _Julien Antoine Raemy_
-- [Group](/group) for encoding the organizations and 
+- [Group](/group) for encoding the organizations and research teams related to the [PIA research project](https://about.participatory-archives.ch/).
   - _University of Basel_
