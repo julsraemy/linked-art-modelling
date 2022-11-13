@@ -150,15 +150,27 @@
             }
           ]
         },
+        {
+          "id": "https://data.julsraemy.ch/group/1",  
+          "type": "Group",
+          "_label": "PIA Research Project Team",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300248011",
+              "type": "Type",
+              "_label": "Team"
+            }
+          ]
+        },
           {
-            "id": "https://data.julsraemy.ch/group/1",  
+            "id": "https://data.julsraemy.ch/group/2",  
             "type": "Group",
             "_label": "DaSCH - Swiss National Data and Service Center for the Humanities",
             "classified_as": [
               {
                 "id": "http://vocab.getty.edu/aat/300150456",
                 "type": "Type",
-                "_label": "Data and Service Center"
+                "_label": "Service"
               }
             ]
           }
