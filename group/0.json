@@ -74,21 +74,5 @@
           "type": "Group",
           "_label": "University of Basel"
         }
-      ],
-      "born": {
-        "type": "Birth",
-        "_label": "Birth of Julien A. Raemy",
-        "timespan": {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "1988-08-30T00:00:00Z",
-          "end_of_the_end": "1988-08-30T00:00:00Z"
-        },
-        "took_place_at": [
-          {
-            "id": "http://vocab.getty.edu/tgn/7007278",
-            "type": "Place",
-            "_label": "Fribourg, Switzerland"
-          }
-        ]
-      }
+      ]
   }
