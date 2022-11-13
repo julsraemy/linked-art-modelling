@@ -1,0 +1,166 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://data.julsraemy.ch/person/0",
+    "type": "Person",
+    "_label": "Julien A. Raemy",
+    "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300189559",
+          "type": "Type",
+          "_label": "Male",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300055147",
+              "type": "Type",
+              "_label": "Gender"
+            }
+          ]
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300111221",
+          "type": "Type",
+          "_label": "Swiss",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300379842",
+              "type": "Type",
+              "_label": "Nationality"
+            }
+          ]
+        },
+        {
+            "id": "https://homosaurus.org/v3/homoit0001681",
+            "type": "Type",
+            "_label": "He/Him/Himself",
+            "classified_as": [
+                {
+                  "id": "https://homosaurus.org/v3/homoit0001135",
+                  "type": "Type",
+                  "_label": "Pronouns"
+                }
+            ]
+        }
+      ],
+    "identified_by": [
+      {
+        "type": "Name",
+        "content": "Julien Antoine Raemy",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300404670",
+            "type": "Type",
+            "_label": "Primary Name"
+          }
+        ],
+        "part": [
+            {
+              "type": "Name",
+              "content": "Julien",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300404651",
+                  "type": "Type",
+                  "_label": "Given Name"
+                }
+              ]
+            },
+            {
+              "type": "Name",
+              "content": "Antoine",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300404654",
+                  "type": "Type",
+                  "_label": "Middle Name"
+                }
+              ]
+            },
+            {
+              "type": "Name",
+              "content": "Raemy",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300404652",
+                  "type": "Type",
+                  "_label": "Family Name"
+                }
+              ]
+            }
+          ]
+      }
+    ],
+    "referred_to_by": [
+      {
+        "type": "LinguisticObject",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300435422",
+            "type": "Type",
+            "_label": "Biography Statement",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "content": "Julien A. Raemy is a researcher in Digital Humanities."
+      }
+    ],
+    "equivalent": [
+        {
+          "id": "https://orcid.org/0000-0002-4711-5759",
+          "type": "Person",
+          "_label": "Julien A. Raemy"
+        },
+        {
+            "id": "https://www.wikidata.org/entity/Q59286487",
+            "type": "Person",
+            "_label": "Julien A. Raemy"
+        }
+      ],
+      "born": {
+        "type": "Birth",
+        "_label": "Birth of Julien A. Raemy",
+        "timespan": {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1988-08-30T00:00:00Z",
+          "end_of_the_end": "1988-08-30T00:00:00Z"
+        },
+        "took_place_at": [
+          {
+            "id": "http://vocab.getty.edu/tgn/7007278",
+            "type": "Place",
+            "_label": "Fribourg, Switzerland"
+          }
+        ]
+      },
+      "member_of": [
+        {
+          "id": "https://data.julsraemy.ch/group/0",  
+          "type": "Group",
+          "_label": "University of Basel",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312240",
+              "type": "Type",
+              "_label": "University"
+            }
+          ]
+        },
+          {
+            "id": "https://data.julsraemy.ch/group/1",  
+            "type": "Group",
+            "_label": "DaSCH - Swiss National Data and Service Center for the Humanities",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300150456",
+                "type": "Type",
+                "_label": "Data and Service Center"
+              }
+            ]
+          }
+      ]  
+  }
