@@ -7,6 +7,8 @@ Getty Vocabularies (such as AAT - the Arts and Architecture Thesaurus) to descri
 
 This repository contains some Linked Art models or templates for my own purposes, especially those that I would like to publish in the context of my PhD Thesis (_Linked Open Usable Data in the Humanities: Perspectives on Semantics and Interoperability_), most probably at `https://data.julsraemy.ch/` (TBD).
 
+Below is the high-level overview of the data model
+
 ![](https://raw.githubusercontent.com/julsraemy/linked-art-modelling/main/phd-datamodel-overview.svg)
 
 The following top-level [Linked Art API entities](https://linked.art/api/1.0/endpoint/) - with _examples_ - have been serialised in JSON-LD (and some models are also represented as graphs in SVG):
@@ -22,7 +24,3 @@ The following top-level [Linked Art API entities](https://linked.art/api/1.0/end
   - _Julien Antoine Raemy_
 - [Groups](/group) for encoding the organizations and research teams related to the [PIA research project](https://about.participatory-archives.ch/).
   - _University of Basel_
-
-Below is the high-level overview of the data model
-
-![](https://raw.githubusercontent.com/julsraemy/linked-art-modelling/main/phd-datamodel-overview.svg)
