@@ -13,11 +13,12 @@ Below is a high-level overview of the data model
 
 The following top-level [Linked Art API entities](https://linked.art/api/1.0/endpoint/) - with _examples_ - have been serialised in JSON-LD (and some models are also represented as graphs in SVG):
 
-- [Textual Works](/text) for encoding the dissertation as well as important components (chapters, sections and subsections)
+- [Textual Works](/text) for encoding the dissertation as its important components (chapters, sections and subsections) as well as notebook entries available on my [PhD Website](https://phd.julsraemy.ch)
   - _PhD Thesis_
   - _Introduction_ (example of a chapter which is part of the PhD Thesis)
-- [Digital Objects](/digital) for encoding the notebook entries available on my [PhD Website](https://phd.julsraemy.ch)
   - _Actor-Network Theory_
+- [Digital Objects](/digital) for encoding IIIF Resources and diagrams 
+  - TBD
 - [Concepts](/concept) for encoding terms that are not available via the Getty Vocabularies
   - _Linked Open Usable Data_
 - [People](/person) for encoding myself and others individuals involved in the PhD thesis
