@@ -19,7 +19,7 @@ The following top-level [Linked Art API entities](https://linked.art/api/1.0/end
   - _Actor-Network Theory_
 - [Digital Objects](/digital) for encoding IIIF Resources and diagrams 
   - TBD
-- [Concepts](/concept) for encoding terms that are not available via the Getty Vocabularies
+- [Concepts](/concept) for encoding glossary terms, especially those that are not available via the Getty Vocabularies
   - _Linked Open Usable Data_
 - [People](/person) for encoding myself and others individuals involved in the PhD thesis
   - _Julien Antoine Raemy_
