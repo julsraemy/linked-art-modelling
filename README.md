@@ -25,3 +25,8 @@ The following top-level [Linked Art API entities](https://linked.art/api/1.0/end
   - _Julien Antoine Raemy_
 - [Groups](/group) for encoding the institutions and research teams related to the [PIA research project](https://about.participatory-archives.ch/).
   - _University of Basel_
+
+What needs to be determined:
+
+- Encoding animals and non-human entities as Agents
+- Activities as top-level entity
