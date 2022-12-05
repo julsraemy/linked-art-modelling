@@ -1,6 +1,6 @@
 {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "https://data.julsraemy.ch/text/0",
+    "id": "https://data.julsraemy.ch/text/diss-0",
     "type": "LinguisticObject",
     "_label": "Linked Open Usable Data in the Humanities. Perspectives on Semantics and Interoperability.",
     "classified_as": [

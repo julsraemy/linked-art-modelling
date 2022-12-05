@@ -1,6 +1,6 @@
 {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "https://data.julsraemy.ch/text/1",
+    "id": "https://data.julsraemy.ch/text/diss-1",
     "type": "LinguisticObject",
     "_label": "1. Introduction",
     "classified_as": [
@@ -12,7 +12,7 @@
     ],
     "part_of": [
         {
-        "id": "https://data.julsraemy.ch/text/0",
+        "id": "https://data.julsraemy.ch/text/diss-0",
         "type": "LinguisticObject",
         "_label": "PhD Thesis",
         "classified_as": [

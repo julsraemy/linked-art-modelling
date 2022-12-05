@@ -1,18 +1,18 @@
 {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "https://data.julsraemy.ch/digital/01",
-    "type": "DigitalObject",
-    "_label": "Actor-Network Theory",
+    "id": "https://data.julsraemy.ch/text/note-1",
+    "type": "LinguisticObject",
+    "_label": "Actor-Network Theory (ANT)",
     "classified_as": [
       {
-        "id": "http://vocab.getty.edu/aat/300264578",
+        "id": "http://vocab.getty.edu/aat/300027200",
         "type": "Type",
-        "_label": "Web Page"
+        "_label": "Note"
       }
     ],
     "part_of": [
         {
-        "id": "https://data.julsraemy.ch/digital/0",
+        "id": "https://data.julsraemy.ch/text/note-0",
         "type": "DigitalObject",
         "_label": "PhD Digital Notebook",
         "classified_as": [
@@ -64,12 +64,38 @@
         "content": "A very nice description/excerpt of ANT here"
       }
     ],
-    "access_point": [
-        {
-          "id": "https://phd.julsraemy.ch/s/loud/01",
-          "type": "DigitalObject"
-        }
-      ],
+    "subject_of": [
+      {
+        "type": "LinguisticObject",
+        "_label": "Omeka S item of ANT",
+        "digitally_carried_by": [
+          {
+            "type": "DigitalObject",
+            "_label": "Omeka S item of ANT",
+            "format": "text/html",
+            "access_point": [
+              {
+                "id": "https://phd.julsraemy.ch/s/loud/01",
+                "type": "DigitalObject"
+              }
+            ],
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300264578",
+                "type": "Type",
+                "_label": "Web Page"
+              }
+            ],
+            "identified_by": [
+              {
+                "type": "Name",
+                "content": "Omeka S Homepage"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "created_by": {
       "type": "Creation",
       "carried_out_by": [
