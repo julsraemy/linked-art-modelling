@@ -1,0 +1,83 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://data.julsraemy.ch/digital/01",
+    "type": "DigitalObject",
+    "_label": "PhD Data Model Graph",
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300264578",
+        "type": "Type",
+        "_label": "Web Page"
+      }
+    ],
+    "part_of": [
+        {
+        "id": "https://data.julsraemy.ch/digital/0",
+        "type": "DigitalObject",
+        "_label": "PhD Digital Notebook",
+        "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300264354",
+              "type": "Type",
+              "_label": "Notebook"
+            }
+        ]   
+        }
+    ],
+    "identified_by": [
+      {
+        "type": "Name",
+        "content": "Actor-Network Theory",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300404670",
+            "type": "Type",
+            "_label": "Primary Name"
+          }
+        ],
+        "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388277",
+              "type": "Language",
+              "_label": "English"
+            }
+          ]
+      }
+    ],
+    "referred_to_by": [
+      {
+        "type": "LinguisticObject",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300026032",
+            "type": "Type",
+            "_label": "Abstract",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300418049",
+                "type": "Type",
+                "_label": "Brief Text"
+              }
+            ]
+          }
+        ],
+        "content": "A very nice description/excerpt of ANT here"
+      }
+    ],
+    "access_point": [
+        {
+          "id": "https://phd.julsraemy.ch/s/loud/01",
+          "type": "DigitalObject"
+        }
+      ],
+    "created_by": {
+      "type": "Creation",
+      "carried_out_by": [
+        {
+          "id": "https://data.julsraemy.ch/person/0",  
+          "type": "Person",
+          "_label": "Julien A. Raemy"
+        }
+      ]
+    }
+  }
