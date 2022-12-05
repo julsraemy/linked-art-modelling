@@ -17,8 +17,8 @@ The following top-level [Linked Art API entities](https://linked.art/api/1.0/end
   - _PhD Thesis_ (`diss-0`)
   - _Introduction_ (`diss-1`)
   - _Actor-Network Theory_ (`note-1`)
-- [Digital Objects](/digital) for encoding IIIF Resources and diagrams 
-  - TBD
+- [Digital Objects](/digital) for encoding IIIF-compliant resources such as diagrams 
+  - _Graph of the PhD Data Model_
 - [Concepts](/concept) for encoding glossary terms, especially those that are not available via the Getty Vocabularies
   - _Linked Open Usable Data_
 - [People](/person) for encoding myself and others individuals involved in the PhD thesis
